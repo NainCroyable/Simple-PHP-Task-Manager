@@ -1,0 +1,29 @@
+
+nav.menu-nav ul li.btn{
+    display: inline-block;
+    list-style: none;
+}
+
+nav.menu-nav{
+    background-color: antiquewhite;
+    padding: 1.5rem;
+    font-size: 2rem;
+}
+
+nav.menu-nav ul li.btn a{
+    color: black;
+    text-decoration: none;
+    padding: 2.8rem;
+}
+
+nav.menu-nav ul li.btn:hover a{
+    color: white;
+    background-color: rgba(58, 58, 52, 0.699);
+    transition: 0.3s all;
+}
+
+nav.menu-nav ul li.salut{
+    float: right;
+    list-style: none;
+}
+
