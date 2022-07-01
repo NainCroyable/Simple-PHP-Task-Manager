@@ -1,2 +1,4 @@
 # Simple-PHP-Task-Manager
-A simple example of a to do list in PHP.
+Un gestionnaire de tâche simple en PHP
+
+A mettre sur un serveur LAMP.
